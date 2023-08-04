@@ -11,7 +11,7 @@
 	<groupId>trade.javiergutierrez</groupId>
 	<artifactId>DaypoDatasExtractor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>DaypoDatasExtractor</name>
 	<description>Daypo Data Extractor</description>
 	<properties>
